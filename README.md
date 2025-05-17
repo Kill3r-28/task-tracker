@@ -1,3 +1,5 @@
+Project inspiration = https://roadmap.sh/projects/task-tracker
+
 # Intro
 
 - task is the command line function to use
